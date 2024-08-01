@@ -6,3 +6,9 @@ git commit -m "addded then_sentence "
 git config --global user.email "  "
 git config --global user.name ""
 git commit -m "added then_sentence "
+
+git log (" it show the name and email ")
+
+git add .
+git status
+git commit -m"added more questions "
