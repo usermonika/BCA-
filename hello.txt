@@ -12,3 +12,4 @@ git log (" it show the name and email ")
 git add .
 git status
 git commit -m"added more questions "
+git log
