@@ -1,1 +1,8 @@
 Hello monika . How are you doing ?
+
+
+git add. is used to merge 
+git commit -m "addded then_sentence "
+git config --global user.email "  "
+git config --global user.name ""
+git commit -m "added then_sentence "
