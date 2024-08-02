@@ -20,3 +20,9 @@ git checkout code
 git checkout master to go in first place.
 
 git.com
+
+new one 
+
+git init
+git add .
+git commit -m"added Project Initalized"
