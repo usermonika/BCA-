@@ -26,3 +26,20 @@ new one
 git init
 git add .
 git commit -m"added Project Initalized"
+
+git branch -M main
+git status
+
+
+Git hub
+Create repository garney tes paxii name lekhney then description garna man lagey garney the create repository garney
+
+To initalized the vs code project into github
+Steps 
+git add .
+git init
+git commit -m"added Project Initalized"
+git status  (check the status )
+git branch (to check which branch is )
+git remote add origin https://github.com/usermonika/BCA-.git
+git push -u origin main
